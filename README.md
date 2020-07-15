@@ -1,0 +1,13 @@
+# desafio02NodeJs
+
+Desafios propostos pelo prefessor do curso, utilizando express.
+
+=============================================
+
+#ENUNCIADO
+
+  Utilizando express
+  1) Crie uma rota onde o usuário vai passar seu nome, e você deve retornar o nome com as letras "revertidas" (ex: Amadeus -> suedama)
+  2) Crie uma rota onde o usuário, a cada vez que acessar, vai receber um número de loteria aleatório de tamanho 6
+  3) Crie uma rota onde o usuário, toda vez que acessar, vai receber um nome aleatório 
+ 
